@@ -7,6 +7,10 @@ My plan here is to share code and contents that can help as much as possible the
 
 [![](https://github-readme-stats.vercel.app/api?username=RonyAbecidan&show_icons=true&theme=algolia&hide=stars,contribs&custom_title=Stats)](https://github.com/anuraghazra/github-readme-stats)
 
+**_Visitor Count_** :
+
+![Visitor Count](https://profile-counter.glitch.me/{RonyAbecidan}/count.svg)
+
 <!--
 **RonyAbecidan/RonyAbecidan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
