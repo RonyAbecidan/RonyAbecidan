@@ -6,7 +6,7 @@ My plan here is to share code and contents that can help as much as possible the
 
 If you want to know a bit more about me, feel free to check my [CV](https://ronyabecidan.github.io/CV/).
 
-[![](https://github-readme-stats.vercel.app/api?username=RonyAbecidan&show_icons=true&theme=algolia&hide=stars,contribs&custom_title=Stats)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?username=RonyAbecidan&show_icons=true&theme=algolia&hide=contribs&custom_title=Stats)](https://github.com/anuraghazra/github-readme-stats)
 
 **_Visitor Count_** :
 
